@@ -1,0 +1,5 @@
+/firstproject/.terraform/
+/secondproject/.terraform/
+/thirdproject/.terraform/
+/fourthproject/.terraform/
+.DS_Store
